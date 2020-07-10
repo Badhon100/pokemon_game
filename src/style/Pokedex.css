@@ -4,3 +4,10 @@
     flex-wrap: wrap;
     
 }
+
+.pokedex-winner{
+    color: green;
+}
+.pokedex-loser{
+    color: red;
+}
